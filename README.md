@@ -1,16 +1,23 @@
-## Hi there 👋
+Hello, World! 👋
+I'm @SunnyBoy-y, a developer who loves coding late into the night.
+✨ About me: I enjoy writing code in the quiet of the night, believing that inspiration often strikes when the world is asleep.
 
-<!--
-**SunnyBoy-y/SunnyBoy-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Tech Stack & Interests
 
-Here are some ideas to get you started:
+Languages I use: Java / Python / C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring: AIGC and various innovative application development
+
+🏆 Some Achievements
+
+🦈 Pull Shark × 2: GitHub open-source collaboration badge
+
+Project contributions: Contributed code to open-source projects such as IoT and smart mirror systems, with pull requests successfully merged
+
+📬 Get in Touch
+
+📧 Email: [locked]
+
+📝 Tech Blog: https://blog.csdn.net/apple_72625182?type=blog        
+
+💬 WeChat / QQ: [locked]    
